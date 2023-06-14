@@ -1,3 +1,3 @@
 # Speaker
 
-These files are for 수행평가
+These files are for 기술수행평가
