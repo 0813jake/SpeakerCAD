@@ -1,3 +1,3 @@
 # Speaker
 
-These files are for 2023 기술수행평가
+2023 기술수행평가 <스피커제작>
